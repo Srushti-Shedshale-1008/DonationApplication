@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Helping Hands</string>
+    <string name="email_error">email_error</string>
+    <string name="error_invalid_email">error_invalid_email</string>
+    <string name="password_error">password_error</string>
+    <string name="error_invalid_password">error_invalid_password</string>
+    <string name="name_error">name_error</string>
+    <string name="phone_error">phone_error</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Helping Hands</string>
+    <string name="nav_header_subtitle">Save Lives</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Help</string>
+    <string name="menu_slideshow">About Us</string>
+    <string name="about_us">This app will make donation simple and easy<br></br>
+You can donate all things like Blood, Organs, Food and Clothes etc in 1 platform. <br></br>
+<br>You can easily donate what he wants.</br>You doesn’t need to come physically he can donate from home.<br></br>
+Donation will be given in correct and safe hands.
+Through the organizations donor’s donation will be given to the needy people.</string>
+    <string name="title_activity_home">Contact Us</string>
+    <string name="title_activity_optionshomepage">Optionshomepage</string>
+    <string name="title_activity_options">Options</string>
+    <string name="title_activity_form">form</string>
+    <string name="app1"><br>Donation app is to help the people as per their need by donating organs,</br> blood, food, clothes etc. so that people can easily find their needs. And one who wants to donate anything like food, <br></br>blood, clothes etc. they can donate using this platform. This app manages all information about the donor and the charitable trusts. Anyone can use this app very easily. </string>
+    <string name="help"><b><li>Enter username and Password.If you are admin then login as admin using specific email and password</li>
+        \n<li>If you have not registered then register yourself and then login.</li>
+        \n <li>Chosse one option of what donation you want to donate.</li>
+        \n<li>Fill the form and click on submit button to submit the details of donation.</li>
+        \n <li>Data can be visible to Admin only after entering  specific mail id and password.</li></b></string>
+
+
+
+        <string name="help1"><b><li>Enter username and Password.If you are admin then login as admin using specific email and password</li>
+        \n<li>If you have not registered then register yourself and then login.</li>
+        \n <li>Chosse one option of what donation you want to donate.</li>
+        \n<li>Fill the form and click on submit button to submit the details of donation.</li>
+        \n <li>Data can be visible to Admin only after entering  specific mail id and password.</li></b></string>
+
+</resources>
